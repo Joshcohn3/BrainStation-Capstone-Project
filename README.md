@@ -15,3 +15,6 @@ The Chinese Mammography Dataset was explored and chosen for modeling using image
 Notebook 3 - CMMD Data Classification Modeling
 The Chinese Mammography Dataset was used to train a Mixed Convolutional Neural Network in the classification
 of cancer from 5202 mammography images.
+
+Notebook 4 - Amazon EC2 Convolutional Neural Network
+Utilized an Amazon Elastic Compute Cloud GPU to train and test the 5202 mammography images.
