@@ -6,10 +6,6 @@ Capstone Project - Mammography Cancer Classification
 Joshua Cohn
 BrainStation Data Science Bootcamp
 
------------------------------------
-         Jupyter Notebooks
------------------------------------
-
 Notebook 1 - mini-DDSM Data Management (https://ardisdataset.github.io/MiniDDSM/)
 The mini-Digital Database of Screening Management was explored and analysed in python.
 
